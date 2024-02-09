@@ -1,5 +1,6 @@
 # led_admin_console
-Administrative Console for LEDs - (Stone Age Slack/Skype)
+
+**Administrative Console for LEDs - (Stone Age Slack/Skype)**
 
 I had an idea about putting two Rpi Picos together so they could communicate wirelessly with each other without a 3rd party AP - just the 2 picos.
 
@@ -41,5 +42,11 @@ You are free to modify the code and placement, here's how the pic is setup:
 - Piezo buzzer - anywhere electronics are sold 
 - Slide switch is just a simple slide switch, [Premium Slide Switches](https://www.amazon.com/gp/product/B0BCK9JDWY/)
 
+ESP32's tend to vary in terms of their pin placement.
 
+**Install**
+- Upload everything except /images to / in Thonny/IDE
+- updated peers.py with the mac address of the opposite esp32:
+  Find it like this: `import mac` from the REPL
+- reboot
 
