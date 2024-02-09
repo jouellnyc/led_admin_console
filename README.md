@@ -39,6 +39,7 @@ You are free to modify the code and placement, here's how the pic is setup:
 - Standard LEDs - 220-440 Ohms  should be fine for resistors.
 - [Premium RGY Buttons](https://www.amazon.com/gp/product/B01E38OS7K)
 - Piezo buzzer - anywhere electronics are sold 
+- Slide switch is just a simple slide switch, [Premium Slide Switches](https://www.amazon.com/gp/product/B0BCK9JDWY/)
 
 
 
