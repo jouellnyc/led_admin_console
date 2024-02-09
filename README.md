@@ -21,7 +21,20 @@ If using at work it can be a "poor man's Slack/Skype" - share your status as gre
 
 ![Esp32s](/images/PXL_20240126_035208295.jpg)
 
- 
+
+You are free to modify the code and placement, here's how the pic is setup:
+
+**Connections**
+
+| GPIO Pin | Connection|
+| -------- | --------- |
+| GPIO 27  | Yellow LED|
+| GPIO 14  | Green  LED|
+| GPIO 32  | Red n  LED|
+| GPIO 18  | Yellow Button |
+| GPIO 22  | Green  Button |
+| GPIO 15  | Red    Button |
+| GPIO  4  | Slider for Red Button (DVM on/off) |
 
 
 
