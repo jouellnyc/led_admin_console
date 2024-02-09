@@ -36,5 +36,9 @@ You are free to modify the code and placement, here's how the pic is setup:
 | GPIO 15  | Red    Button |
 | GPIO  4  | Slider for Red Button (DVM on/off) |
 
+- Standard LEDs - 220-440 Ohms  should be fine for resistors.
+- [Premium RGY Buttons](https://www.amazon.com/gp/product/B01E38OS7K)
+- Piezo buzzer - anywhere electronics are sold 
+
 
 
