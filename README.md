@@ -1,7 +1,7 @@
 # led_admin_console
 Administrative Console for LEDs - (Stone Age Slack/Skype)
 
-I had an idea about putting two Rpi Picos together so they could communicate wirelessly with each other without 3rd party AP - just the 2 picos.
+I had an idea about putting two Rpi Picos together so they could communicate wirelessly with each other without a 3rd party AP - just the 2 picos.
 
 Having used ESP32-S3-Box's before as APs I figure it would be trivial.
 
