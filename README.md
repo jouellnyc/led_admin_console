@@ -5,7 +5,7 @@ I had an idea about putting two Rpi Picos together so they could communicate wir
 
 Having used ESP32-S3-Box's before as APs I figure it would be trivial.
 
-Like many on the internet, it did not work [so well](https://forums.raspberrypi.com/viewtopic.php?t=363911)
+Like many on the internet, it did not work [so well](https://forums.raspberrypi.com/viewtopic.php?t=363911).
 
 Instead, I wired up 3 esp32s and used espnow. 
 
