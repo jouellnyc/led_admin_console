@@ -19,6 +19,7 @@ Further magic is holding down the button plays the "Darth Vader March"
 
 If using at work it can be a "poor man's Slack/Skype" - share your status as green, yellow, or red (with or with DVM)...
 
+![Esp32s](/images/PXL_20240126_035208295.jpg)
 
  
 
