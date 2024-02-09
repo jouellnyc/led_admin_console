@@ -12,6 +12,7 @@ Instead, I wired up 3 esp32s and used espnow.
 The goal was to have something to:
 - Bring to work and have people marvel at
 - Show children and watch their faces light up
+- Sell to VCs for millions of dollars
 
 The magic being if you hit the red button on ESP1 the red led on ESP32 turns on. Ditto for green and yellow.
 Further magic is holding down the button plays the "Darth Vader March" 
