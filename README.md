@@ -46,7 +46,7 @@ ESP32's tend to vary in terms of their pin placement.
 
 **Install**
 - Upload everything except /images to / in Thonny/IDE
-- updated peers.py with the mac address of the opposite esp32:
+- updated peer.py with the mac address of the opposite esp32:
     
   Find it like this: `import mac` from the REPL
 - reboot
